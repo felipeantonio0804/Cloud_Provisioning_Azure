@@ -4,6 +4,6 @@ apt-get update
 # Instalar el apache
 apt-get -y install apache2 
 # copiar la carpeta a destino
-cp -R /ejemplo /var/www/ejemplo/
+cp -r ../ejemplo /var/www/ejemplo/
 # Reiniciar Apache
 apachectl restart
