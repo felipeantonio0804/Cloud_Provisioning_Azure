@@ -1,0 +1,55 @@
+img{
+	max-width: 100%;
+}
+.quitarFloat{
+	float: none;
+}
+.espacioArriba{
+	margin-top: 100px;
+}
+.espacioDerecha{
+	margin-right: 1em;
+}
+.letraCarta{
+	font-family: 'Pacifico', cursive;
+}
+.tamanoMediano{
+	font-size: 4em;
+}
+.tamanoGrande{
+	font-size: 5em;
+}
+.naranja{
+	color: #F24C27;
+}
+.noLista li{
+	list-style-type: none;
+}
+a,.medioNaranja{
+	color: #F2BB40;
+}
+.pintarGris{
+	background-color: #eee;
+}
+.enLineaBloque{
+	display: inline-block;
+	float: none;
+}
+.alinearArriba{
+	vertical-align: top;
+}
+.retraso-1{
+	-webkit-animation-delay: 1s;
+	-moz-animation-delay: 1s;
+	animation-delay: 1s;
+}
+.retraso-2{
+	-webkit-animation-delay: 2s;
+	-moz-animation-delay: 2s;
+	animation-delay: 2s;
+}
+.retraso-3{
+	-webkit-animation-delay: 3s;
+	-moz-animation-delay: 3s;
+	animation-delay: 3s;
+}
